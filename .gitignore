@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded / generated data (re-fetchable from SEC)
+data/
+
+# Local Claude Code instructions
+CLAUDE.md

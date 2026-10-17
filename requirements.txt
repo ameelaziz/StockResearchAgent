@@ -1,0 +1,3 @@
+edgartools
+psycopg[binary]
+python-dotenv
